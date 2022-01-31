@@ -1,2 +1,0 @@
- This is first commit of this year 2022.
- And i am happy about this commit.`
